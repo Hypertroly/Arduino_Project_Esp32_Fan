@@ -10,3 +10,8 @@ O código cria uma conexão com o celular no aplicativo MQTT Dash a partir do Wi
 4- Automático desativado
 
 No modo ativado, o ventilador é ligado quando a temperatura ambiente, captada pelo sensor TMP35, chega ou passa de um certo número, o qual pode ser mudado.
+
+
+![image](https://user-images.githubusercontent.com/43524597/120084710-e9886180-c0a8-11eb-8ba1-d79245ff8e34.png)
+![image](https://user-images.githubusercontent.com/43524597/120086046-8819c000-c0b3-11eb-8fd1-55c6d70fdc69.png)
+![image](https://user-images.githubusercontent.com/43524597/120086086-a97aac00-c0b3-11eb-8853-fde79e275e0b.png)
